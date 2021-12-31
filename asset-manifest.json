@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90cb6051.chunk.css",
+    "main.js": "/static/js/main.a254e63a.chunk.js",
+    "main.js.map": "/static/js/main.a254e63a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.60ef40cc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.60ef40cc.js.map",
+    "static/css/2.d6cd12b8.chunk.css": "/static/css/2.d6cd12b8.chunk.css",
+    "static/js/2.7d2fc7fd.chunk.js": "/static/js/2.7d2fc7fd.chunk.js",
+    "static/js/2.7d2fc7fd.chunk.js.map": "/static/js/2.7d2fc7fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d6cd12b8.chunk.css.map": "/static/css/2.d6cd12b8.chunk.css.map",
+    "static/css/main.90cb6051.chunk.css.map": "/static/css/main.90cb6051.chunk.css.map",
+    "static/js/2.7d2fc7fd.chunk.js.LICENSE.txt": "/static/js/2.7d2fc7fd.chunk.js.LICENSE.txt",
+    "static/media/app_backdrop.52f7a799.png": "/static/media/app_backdrop.52f7a799.png",
+    "static/media/legato.84798b1b.png": "/static/media/legato.84798b1b.png",
+    "static/media/menu.17916d58.png": "/static/media/menu.17916d58.png",
+    "static/media/metronome.edab70b3.png": "/static/media/metronome.edab70b3.png",
+    "static/media/music.315c7714.png": "/static/media/music.315c7714.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ef40cc.js",
+    "static/css/2.d6cd12b8.chunk.css",
+    "static/js/2.7d2fc7fd.chunk.js",
+    "static/css/main.90cb6051.chunk.css",
+    "static/js/main.a254e63a.chunk.js"
+  ]
+}
